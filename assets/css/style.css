@@ -1,6 +1,4 @@
 /*==================================
-* Author        : "ThemeSine"
-* Template Name :  Browny  HTML Template
 * Version       : 1.0
 ==================================== */
 
@@ -190,7 +188,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(../images/about/hero-alt.png)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
@@ -253,12 +251,19 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     text-transform: initial;
     line-height: 1.8;
 }
-.single-about-txt p {
+.single-about-p {
     font-size: 16px;
     color: #999fb3;
     padding: 35px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
+
+p.welcome-txt {
+font-size: 1.rem;
+color: #999fb3;
+padding: 10px 10px;
+}
+
 .single-about-add-info {
     margin: 35px 0;
 }
