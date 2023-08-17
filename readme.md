@@ -3,6 +3,8 @@
 -----------------------
 Jolie is a one page bootstrap 3 based resume/portfolio template.
 
+Here is the [react version](https://github.com/CodeLikeAGirl29/browny-react)
+
 
 Template Info:
 -----------------------
