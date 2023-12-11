@@ -1,7 +1,10 @@
 -----------------------
 # README
 -----------------------
-Jolie is a one page bootstrap 3 based resume/portfolio template.
+
+> updated to bootstrap 5
+
+Jolie is a one page bootstrap ~3~ based resume/portfolio template.
 
 Here is the [react version](https://github.com/CodeLikeAGirl29/browny-react)
 
@@ -9,8 +12,8 @@ Here is the [react version](https://github.com/CodeLikeAGirl29/browny-react)
 Template Info:
 -----------------------
 Name: 		jolie - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.2
-Author: 	visionary by lindseyk
+Version: 	2.2
+Author: 	lindsey k
 Website: 	https://www.lindseyk.dev
 
 
