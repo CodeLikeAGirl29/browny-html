@@ -16,7 +16,7 @@ Version: 	2.2
 Author: 	lindsey k
 Website: 	https://www.lindseyk.dev
 
-
+![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1702325329/projects/Jolie_imd1p5.png)
 
 Credits:
 -----------------------
