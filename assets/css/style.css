@@ -67,7 +67,7 @@ h6 {
   color: #43485c;
   font-size: 16px;
   font-family: 'Poppins', sans-serif;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 p {
@@ -432,7 +432,6 @@ nav.navbar.brand .navbar-toggle i {
   height: 60px;
   line-height: 60px;
   border-radius: 3px;
-  text-transform: capitalize;
   color: #fff;
   background: #b636ff;
   border: 1px solid #b636ff;
@@ -491,7 +490,7 @@ p.welcome-txt {
 .single-about-add-info h3 {
   color: #636a82;
   font-size: 16px;
-  text-transform: capitalize;
+
 }
 
 .single-about-add-info p {
@@ -578,7 +577,7 @@ p.welcome-txt {
 }
 
 .single-horizontal-timeline .experience-time h3 {
-  text-transform: capitalize;
+
 }
 
 .single-horizontal-timeline .experience-time h3 span {
@@ -1010,7 +1009,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .profile-icon-name {
-  text-transform: capitalize;
+
   color: #636a82;
   font-size: 16px;
 }
@@ -1026,7 +1025,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 .single-profile-overlay {
   display: flex;
   align-items: center;
-  text-transform: capitalize;
+
   justify-content: center;
   position: absolute;
   top: 0;
@@ -1215,7 +1214,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
   align-items: center;
   justify-content: center;
   height: 50px;
-  text-transform: capitalize;
+
   margin-top: 3px;
   background: #b636ff;
   border: 1px solid #b636ff;
@@ -1260,7 +1259,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 .contact-add-head p {
   font-size: 16px;
-  text-transform: capitalize;
+
   color: #636a82;
   font-weight: 300;
   margin-top: 6px;
@@ -1315,7 +1314,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 
 .hm-footer-copyright p {
   color: #888ea5;
-  text-transform: capitalize;
+
   padding: 38px 0;
 }
 
