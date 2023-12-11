@@ -25,5 +25,5 @@ Credits:
 - Modernizr https://modernizr.com/
 - Sticky.js http://stickyjs.com/
 - JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
+- ~Bootsnav http://bootsnav.danurstrap.com/~
 - Pexels https://www.pexels.com/
